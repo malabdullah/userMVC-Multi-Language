@@ -1,0 +1,1 @@
+signup=Signup;login=Login;menu_home=Home;menu_about=About;menu_contact=Contact;email=Email;password=Password;remember_me=Remember me;name=Name;

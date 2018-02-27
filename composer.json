@@ -1,0 +1,22 @@
+{
+    "require-dev": {
+        "filp/whoops": "^2.1"
+    },
+
+    "autoload": {
+    	"psr-4": {
+    		"App\\Controllers\\": "app/controllers/",
+    		"App\\Core\\": "app/core/",
+            "App\\Models\\": "app/models/"
+    	},
+        "files": [
+            "app/helpers/functions.php",
+            "app/helpers/sessions.php"
+        ]
+    },
+    "require": {
+        "phpmailer/phpmailer": "^6.0",
+        "vlucas/phpdotenv": "^2.4",
+        "twbs/bootstrap": "4.0.0"
+    }
+}

@@ -1,0 +1,1 @@
+signup=التسجيل;login=الدخول;menu_home=الرئيسية;menu_about=نبذة عن;menu_contact=الاتصال بنا;email=البريد الالكتروني;password=كلمة المرور;remember_me=تذكرني;name=الاسم;

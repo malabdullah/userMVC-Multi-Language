@@ -1,0 +1,41 @@
+#main-content{
+	min-height: 100vh !important;
+}
+
+#card-container{
+	border-radius:3px !important;
+	overflow: hidden;
+}
+
+.navbar {
+
+	border-bottom: 1px solid $secondary;
+}
+
+.navbar-brand .fa{
+
+	color: $secondary !important;
+}
+
+.btn-link {
+	white-space: normal;
+}
+
+footer{
+
+	border-top: 1px solid $secondary;
+}
+
+#social-content .fa {
+	color: $secondary !important;
+}
+
+//
+
+.card-header{
+	border-bottom-color: transparent;
+}
+
+.card-footer{
+	border-top-color: $secondary;
+}
